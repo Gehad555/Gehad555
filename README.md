@@ -3,7 +3,10 @@
  🔭I am a Junior at Faculty of Computers & Informatics at Suez Canal University.<br> 🌱I’m currently learning Computer Science .<br> ⚡️I am a competitive programmer .<br> 📫 How to reach me : gehadshalaby66@gmail.com .
 
 
-## 🌐 Socials:
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/01naveenv/)](https://www.linkedin.com/in/gehad-shalaby-7aa3b5250)
+[![](https://img.shields.io/badge/Telegram-naveenv01-blue)](https://t.me/naveenv01)
+[![](https://img.shields.io/badge/Leetcode-naveenverma-brightgreen)](https://leetcode.com/naveenverma/)
+[![](https://img.shields.io/badge/Gmail-01naveenv%40gmail.com-red)](https://mail.google.com/mail/u/0/?tab=km#inbox)
 
 
 # 💻 Tech Stack:
