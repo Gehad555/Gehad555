@@ -4,7 +4,7 @@
 
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/01naveenv/)](https://www.linkedin.com/in/gehad-shalaby-7aa3b5250)
-[![](https://img.shields.io/badge/Gmail-https://twitter.com/gehadshalaby66red)](https://mail.google.com/mail/u/0/?tab=km#inbox)
+[![](https://img.shields.io/badge/Gmail-gehadshalaby66@gmail.com-red)](https://mail.google.com/mail/u/0/?tab=km#inbox)
 
 
 # 💻 Tech Stack:
