@@ -1,6 +1,6 @@
 # 💫 Hi I'm Gehad Shalaby 👋🏻
 
-I am a Junior at Faculty of Computers & Informatics at Suez Canal University.<br>I’m currently learning Computer Science .<br>I am a competitive programmer .<br> How to reach me : gehadshalaby66@gmail.com .
+- 🔭I am a Junior at Faculty of Computers & Informatics at Suez Canal University.<br> 🌱I’m currently learning Computer Science .<br> ⚡️I am a competitive programmer .<br> 📫 How to reach me : gehadshalaby66@gmail.com .
 
 
 ## 🌐 Socials:
